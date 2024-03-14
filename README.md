@@ -11,10 +11,7 @@
 
 ### This directory contains the task solutions for my ALX-SWE `alx-backend-python` projects.
 
-<div align="center">
-
 ### Contents
-</div>
 
 - [0x00](./0x00-python_variable_annotations) : Introduction to Advanced Python.
 
